@@ -1,3 +1,10 @@
-body{
+.cabecalho {
 background-color: rgb(92, 80, 255)
+color: white;
+display: flex;
+ justify-content= spare-around;
+}  
+
+.cabecalho-iamagem{
+  width: 20%;
 }
